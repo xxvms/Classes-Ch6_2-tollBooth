@@ -48,12 +48,12 @@ int main()
 		case 'p':
 			t1.pyingCar();
 			break;
+
 		case 'n':
 			t1.NoPayingCar();
 			break;
 
 		case 'd':
-
 			t1.Display();
 			break;
 		}
